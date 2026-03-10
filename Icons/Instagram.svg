@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Instagram">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Instagram" clip-path="url(#clip-Instagram)">
+    <g id="Layer_2" data-name="Layer 2">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <circle id="Ellipse_48" data-name="Ellipse 48" cx="115.63" cy="115.63" r="115.63" transform="translate(0 0)" fill="none"/>
+        <path id="Path_189" data-name="Path 189" d="M115.13,72.63a42.5,42.5,0,1,0,42.5,42.5,42.5,42.5,0,0,0-42.5-42.5Zm0,70a27.5,27.5,0,1,1,27.5-27.5,27.5,27.5,0,0,1-27.5,27.5Z" fill="#0d0d0d"/>
+        <path id="Path_190" data-name="Path 190" d="M152.63,33.13h-74a45.55,45.55,0,0,0-45.5,45.5v74a45.55,45.55,0,0,0,45.5,45.5h74a45.55,45.55,0,0,0,45.5-45.5v-74a45.55,45.55,0,0,0-45.5-45.5Zm30.5,119.5a30.54,30.54,0,0,1-30.5,30.5h-74a30.54,30.54,0,0,1-30.5-30.5v-74a30.53,30.53,0,0,1,30.5-30.5h74a30.54,30.54,0,0,1,30.5,30.5Z" fill="#0d0d0d"/>
+        <circle id="Ellipse_49" data-name="Ellipse 49" cx="9" cy="9" r="9" transform="translate(149.63 62.63)" fill="#0d0d0d"/>
+      </g>
+    </g>
+  </g>
+</svg>

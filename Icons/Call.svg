@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Call">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Call" clip-path="url(#clip-Call)">
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="115.63" cy="115.63" r="115.63" transform="translate(0 -1)" fill="none"/>
+    <path id="Path_180" data-name="Path 180" d="M115.54,32.93A82.7,82.7,0,1,1,75.71,188c-6.11-3.34-40.25,9.06-40.21,9s13-32.6,9.1-38.91A82.7,82.7,0,0,1,115.54,32.93Z" transform="translate(0 -1)" fill="none"/>
+    <path id="Path_175" data-name="Path 175" d="M110.2,83.936a94.586,94.586,0,0,1,15.317,31.779,13.139,13.139,0,0,1-2.065,9.761s-10.117,5.631-8.879,11.375a75.515,75.515,0,0,0,49.761,43.642c4.824,1.126,11.563-14.923,13.59-16.274s4.843-2.29,10.962,0,29.095,8.165,29.489,16.274,1.014,36.7-44.674,31.554S71.63,138.239,77.487,113.781,97.346,83.936,97.346,83.936,105.455,79.431,110.2,83.936Z" transform="translate(-33.033 -31.542)" fill="#0d0d0d"/>
+  </g>
+</svg>

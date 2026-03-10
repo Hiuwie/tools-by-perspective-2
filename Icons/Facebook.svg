@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Facebook">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook" clip-path="url(#clip-Facebook)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0 -1)">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <circle id="Ellipse_44" data-name="Ellipse 44" cx="115.63" cy="115.63" r="115.63" transform="translate(0 0)" fill="none"/>
+        <path id="Path_179" data-name="Path 179" d="M156.967,88.242H142.56S132.445,87.8,132.6,98.42s0,14.244,0,14.244H156.44l-2.849,20.494H132.884v54.378h-24.12V133.158H88.22V112.664h19.653l.163-20.2s.966-21.334,26.354-24.3c3.326-.376,18.147-.163,22.589,1.318Z" transform="translate(-6.985 -12.143)" fill="#0d0d0d"/>
+      </g>
+    </g>
+  </g>
+</svg>

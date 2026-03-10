@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Question">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Question" clip-path="url(#clip-Question)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0 -1)">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <circle id="Ellipse_43" data-name="Ellipse 43" cx="115.63" cy="115.63" r="115.63" transform="translate(0 0)" fill="none"/>
+        <path id="Path_178" data-name="Path 178" d="M113.816,157.17c0-16.763,1.754-24.178,17.872-35.564,6.821-4.72,10.857-10.148,10.857-17.331,0-13.669-9.632-17.344-17-17.344-15.758,0-18.053,11.915-18.917,20.142v.129H81.94c0-30.483,22.94-40.993,42.037-40.993,10.509,0,44.835,2.979,44.835,37.3,0,14.184-7.737,22.6-21.186,32.237-7.531,5.429-10.69,8.756-10.69,21.367ZM138.755,193.6H113.12V168.9h25.635Z" transform="translate(-9.751 -14.299)" fill="#0d0d0d"/>
+      </g>
+    </g>
+  </g>
+</svg>

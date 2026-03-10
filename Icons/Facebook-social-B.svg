@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Facebook-social-B">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook-social-B" clip-path="url(#clip-Facebook-social-B)">
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="115.63" cy="115.63" r="115.63" transform="translate(0 -1)" fill="none"/>
+    <path id="Path_180" data-name="Path 180" d="M115.54,32.93A82.7,82.7,0,1,1,75.71,188c-6.11-3.34-40.25,9.06-40.21,9s13-32.6,9.1-38.91A82.7,82.7,0,0,1,115.54,32.93Z" transform="translate(0 -1)" fill="none"/>
+    <g id="Group_17" data-name="Group 17" transform="translate(-5455 -5013)">
+      <g id="Ellipse_59" data-name="Ellipse 59" transform="translate(5481 5039)" fill="none" stroke="#f04115" stroke-width="5">
+        <circle cx="89.5" cy="89.5" r="89.5" stroke="none"/>
+        <circle cx="89.5" cy="89.5" r="87" fill="none"/>
+      </g>
+      <g id="Layer_2" data-name="Layer 2" transform="translate(5480 5038)">
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(0 0)">
+          <ellipse id="Ellipse_44" data-name="Ellipse 44" cx="90.194" cy="90.194" rx="90.194" ry="90.194" fill="none"/>
+          <path id="Path_179" data-name="Path 179" d="M130.95,80.582H122s-6.287-.273-6.193,6.326,0,8.853,0,8.853h14.82L128.851,108.5h-12.87v33.8H100.989V108.5H88.22V95.761h12.215l.1-12.558s.6-13.26,16.38-15.1c2.067-.234,11.279-.1,14.04.819Z" transform="translate(-19.406 -14.958)" fill="#0d0d0d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

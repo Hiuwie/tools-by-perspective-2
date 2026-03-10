@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Profile">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Profile" clip-path="url(#clip-Profile)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(0 -1)">
+      <g id="Layer_2-2" data-name="Layer 2">
+        <circle id="Ellipse_41" data-name="Ellipse 41" cx="115.63" cy="115.63" r="115.63" transform="translate(0 0)" fill="none"/>
+        <path id="Path_177" data-name="Path 177" d="M164.536,116.461a39.112,39.112,0,0,1-58.538,0A71.9,71.9,0,0,0,63.35,182.152H207.184a71.912,71.912,0,0,0-42.652-65.694Z" transform="translate(-19.642 1.038)"/>
+        <ellipse id="Ellipse_42" data-name="Ellipse 42" cx="35.948" cy="35.948" rx="35.948" ry="35.948" transform="translate(74.395 55.719) rotate(-9.22)"/>
+      </g>
+    </g>
+  </g>
+</svg>

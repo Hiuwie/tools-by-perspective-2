@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="231" height="230" viewBox="0 0 231 230">
+  <defs>
+    <clipPath id="clip-Instagram-social-B">
+      <rect width="231" height="230"/>
+    </clipPath>
+  </defs>
+  <g id="Instagram-social-B" clip-path="url(#clip-Instagram-social-B)">
+    <circle id="Ellipse_45" data-name="Ellipse 45" cx="115.63" cy="115.63" r="115.63" transform="translate(0 -1)" fill="none"/>
+    <path id="Path_180" data-name="Path 180" d="M115.54,32.93A82.7,82.7,0,1,1,75.71,188c-6.11-3.34-40.25,9.06-40.21,9s13-32.6,9.1-38.91A82.7,82.7,0,0,1,115.54,32.93Z" transform="translate(0 -1)" fill="none"/>
+    <g id="Group_15" data-name="Group 15">
+      <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(25 25)" fill="none" stroke="#f04115" stroke-width="5">
+        <circle cx="90.5" cy="90.5" r="90.5" stroke="none"/>
+        <circle cx="90.5" cy="90.5" r="88" fill="none"/>
+      </g>
+      <g id="Layer_2" data-name="Layer 2" transform="translate(53 53)">
+        <g id="Layer_2-2" data-name="Layer 2" transform="translate(0 0)">
+          <circle id="Ellipse_48" data-name="Ellipse 48" cx="62.656" cy="62.656" r="62.656" transform="translate(0 0)" fill="none"/>
+          <path id="Path_189" data-name="Path 189" d="M95.659,72.63a23.029,23.029,0,1,0,23.03,23.029A23.03,23.03,0,0,0,95.659,72.63Zm0,37.931a14.9,14.9,0,1,1,14.9-14.9A14.9,14.9,0,0,1,95.659,110.561Z" transform="translate(-33.274 -33.274)" fill="#0d0d0d"/>
+          <path id="Path_190" data-name="Path 190" d="M97.884,33.13h-40.1A24.682,24.682,0,0,0,33.13,57.785v40.1a24.682,24.682,0,0,0,24.655,24.655h40.1a24.682,24.682,0,0,0,24.655-24.655v-40.1A24.682,24.682,0,0,0,97.884,33.13Zm16.527,64.754a16.549,16.549,0,0,1-16.527,16.527h-40.1A16.549,16.549,0,0,1,41.258,97.884v-40.1A16.543,16.543,0,0,1,57.785,41.258h40.1a16.549,16.549,0,0,1,16.527,16.527Z" transform="translate(-15.178 -15.178)" fill="#0d0d0d"/>
+          <circle id="Ellipse_49" data-name="Ellipse 49" cx="4.877" cy="4.877" r="4.877" transform="translate(81.08 33.937)" fill="#0d0d0d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

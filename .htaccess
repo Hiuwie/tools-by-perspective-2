@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Keep API routes out of SPA fallback rewrite.
+RewriteCond %{REQUEST_URI} ^/api/ [NC]
+RewriteRule ^ - [L]
+
+# Serve existing files/folders directly.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# SPA fallback.
+RewriteRule ^ index.html [L]
